@@ -11,16 +11,3 @@ it is put to the kmeans algorithm from which centres are found and finally these
 regions in the image. This technique is basically used for Colour reduction in image processing .</br>
 <h5>System Requirements: Python 3 , OpenCV, Numpy installed.</br>
 
-<h3>How to use this project</h3>
-1.Keep thepc wherever you want to cartoonise.</br>
-2.Run the python scripts given above acoording to preference.</br>
-3.Enjoy the effect.</br>
-
-<h4>Screenshots : </h4>
-1.using Cartoonise.py script.</br>
-2.using Cartoonise_kmeans.py script.</br>
-</br>
-<p>
-<img src="https://raw.githubusercontent.com/infoaryan/Cartoonise-Video/master/Bilateral_edge.png" width="400" height="350">  
-<img src="https://raw.githubusercontent.com/infoaryan/Cartoonise-Video/master/Kmeans.png" width="400" height="350">
-</p>
